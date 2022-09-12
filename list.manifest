@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4086084437
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c5caac40a6129072f7e09518aacab12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fda018d31640fbe8c9e17576a114e4dd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99d0876742e685842a34b543423061db, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ArObjCategories
+Assets:
+- Assets/Assets/CubeAsset.asset
+Dependencies:
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/cube
