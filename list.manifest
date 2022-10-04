@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2760455402
+CRC: 1907843035
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8dbb12652b3cfc8e52069a122fe985b3
+    Hash: b94fb18728fdbf5c750b19518217c228
   TypeTreeHash:
     serializedVersion: 2
     Hash: d3320e571499ec437352596901b18f8b
@@ -22,7 +22,4 @@ Assets:
 - Assets/ArObject/CubeAsset 1.asset
 - Assets/ArObject/CubeAsset.asset
 - Assets/ArObject/CubeAsset 2.asset
-Dependencies:
-- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_1
-- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_2
-- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_3
+Dependencies: []
