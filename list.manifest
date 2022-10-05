@@ -1,25 +1,30 @@
 ManifestFileVersion: 0
-CRC: 1907843035
+CRC: 100057798
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b94fb18728fdbf5c750b19518217c228
+    Hash: 479f91490414e4fc9bd9a5e52277ba38
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d3320e571499ec437352596901b18f8b
+    Hash: 29c90631b2cf2df02c9b1c2f32044fe3
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 99d0876742e685842a34b543423061db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42c263dd625183845824377cfdd042af, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
-  ClassName: ArObjCategories
+  ClassName: LanguageBlock
 Assets:
 - Assets/ArObject/CubeAsset 1.asset
-- Assets/ArObject/CubeAsset.asset
+- Assets/ArObject/LanguageAsset.asset
 - Assets/ArObject/CubeAsset 2.asset
-Dependencies: []
+Dependencies:
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_1
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_2
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_3
