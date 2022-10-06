@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 100057798
+CRC: 1417757538
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 479f91490414e4fc9bd9a5e52277ba38
+    Hash: 9d218ea5556d8b5065a5e33802083286
   TypeTreeHash:
     serializedVersion: 2
     Hash: 29c90631b2cf2df02c9b1c2f32044fe3
@@ -21,9 +21,9 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: LanguageBlock
 Assets:
-- Assets/ArObject/CubeAsset 1.asset
-- Assets/ArObject/LanguageAsset.asset
-- Assets/ArObject/CubeAsset 2.asset
+- Assets/ArObjects/CubeAsset 1.asset
+- Assets/ArObjects/LanguageAsset.asset
+- Assets/ArObjects/CubeAsset 2.asset
 Dependencies:
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_1
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_2
