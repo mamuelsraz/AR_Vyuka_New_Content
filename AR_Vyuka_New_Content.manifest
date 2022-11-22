@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1058571874
+CRC: 2067688273
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -8,6 +8,13 @@ AssetBundleManifest:
         Dependency_0: test_2
         Dependency_1: test_1
         Dependency_2: test_3
+        Dependency_3: batoh
+        Dependency_4: blesky
+        Dependency_5: boty
+        Dependency_6: burger
+        Dependency_7: dest
+        Dependency_8: juice
+        Dependency_9: kreslo
     Info_1:
       Name: test_2
       Dependencies: {}
@@ -16,4 +23,28 @@ AssetBundleManifest:
       Dependencies: {}
     Info_3:
       Name: test_3
+      Dependencies: {}
+    Info_4:
+      Name: batoh
+      Dependencies: {}
+    Info_5:
+      Name: blesky
+      Dependencies: {}
+    Info_6:
+      Name: boty
+      Dependencies: {}
+    Info_7:
+      Name: burger
+      Dependencies: {}
+    Info_8:
+      Name: dest
+      Dependencies: {}
+    Info_9:
+      Name: banka
+      Dependencies: {}
+    Info_10:
+      Name: juice
+      Dependencies: {}
+    Info_11:
+      Name: kreslo
       Dependencies: {}

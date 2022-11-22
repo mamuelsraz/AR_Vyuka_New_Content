@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1905865703
+CRC: 1488683318
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 421005db09c28de77aef18e10a068d67
+    Hash: 6ddc4cd6983c25890dd7bc40aa8c566e
   TypeTreeHash:
     serializedVersion: 2
     Hash: dc7d45d0bb9d6d407d106a8dc6ee7363
@@ -21,10 +21,24 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: LanguageBlock
 Assets:
+- Assets/ArObjects/Languages/burger_obj.asset
+- Assets/ArObjects/Languages/batoh_obj.asset
+- Assets/ArObjects/Languages/blesky_obj.asset
 - Assets/ArObjects/CubeAsset 1.asset
 - Assets/ArObjects/LanguageAsset.asset
+- Assets/ArObjects/Languages/juice_obj.asset
+- Assets/ArObjects/Languages/boty_obj.asset
 - Assets/ArObjects/CubeAsset 2.asset
+- Assets/ArObjects/Languages/kreslo_obj.asset
+- Assets/ArObjects/Languages/dest_obj.asset
 Dependencies:
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/batoh
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/blesky
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/boty
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/burger
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/dest
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/juice
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/kreslo
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_1
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_2
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_3
