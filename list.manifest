@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1488683318
+CRC: 4142799524
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6ddc4cd6983c25890dd7bc40aa8c566e
+    Hash: 587309089793f12d72cc4caa20caec6b
   TypeTreeHash:
     serializedVersion: 2
     Hash: dc7d45d0bb9d6d407d106a8dc6ee7363
@@ -21,13 +21,24 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
   ClassName: LanguageBlock
 Assets:
+- Assets/ArObjects/Languages/stul_obj.asset
 - Assets/ArObjects/Languages/burger_obj.asset
 - Assets/ArObjects/Languages/batoh_obj.asset
+- Assets/ArObjects/Languages/kruzitko_obj.asset
+- Assets/ArObjects/Languages/slunce_obj.asset
 - Assets/ArObjects/Languages/blesky_obj.asset
+- Assets/ArObjects/Languages/vlocka_obj.asset
+- Assets/ArObjects/Languages/skrin_obj.asset
+- Assets/ArObjects/Languages/nocnistolek_obj.asset
+- Assets/ArObjects/Languages/semafory_obj.asset
+- Assets/ArObjects/Languages/vitr_obj.asset
 - Assets/ArObjects/CubeAsset 1.asset
 - Assets/ArObjects/LanguageAsset.asset
 - Assets/ArObjects/Languages/juice_obj.asset
+- Assets/ArObjects/Languages/lampa_obj.asset
 - Assets/ArObjects/Languages/boty_obj.asset
+- Assets/ArObjects/Languages/notebook_obj.asset
+- Assets/ArObjects/Languages/prechod_obj.asset
 - Assets/ArObjects/CubeAsset 2.asset
 - Assets/ArObjects/Languages/kreslo_obj.asset
 - Assets/ArObjects/Languages/dest_obj.asset
@@ -39,6 +50,17 @@ Dependencies:
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/dest
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/juice
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/kreslo
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/kruzitko
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/lampa
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/nocnistolek
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/notebook
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/prechod
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/semafory
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/skrin
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/slunce
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/stul
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_1
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_2
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_3
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/vitr
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/vlocka

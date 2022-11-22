@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2067688273
+CRC: 3868026942
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -15,6 +15,17 @@ AssetBundleManifest:
         Dependency_7: dest
         Dependency_8: juice
         Dependency_9: kreslo
+        Dependency_10: kruzitko
+        Dependency_11: lampa
+        Dependency_12: nocnistolek
+        Dependency_13: notebook
+        Dependency_14: prechod
+        Dependency_15: semafory
+        Dependency_16: skrin
+        Dependency_17: slunce
+        Dependency_18: stul
+        Dependency_19: vitr
+        Dependency_20: vlocka
     Info_1:
       Name: test_2
       Dependencies: {}
@@ -47,4 +58,37 @@ AssetBundleManifest:
       Dependencies: {}
     Info_11:
       Name: kreslo
+      Dependencies: {}
+    Info_12:
+      Name: kruzitko
+      Dependencies: {}
+    Info_13:
+      Name: lampa
+      Dependencies: {}
+    Info_14:
+      Name: nocnistolek
+      Dependencies: {}
+    Info_15:
+      Name: notebook
+      Dependencies: {}
+    Info_16:
+      Name: prechod
+      Dependencies: {}
+    Info_17:
+      Name: semafory
+      Dependencies: {}
+    Info_18:
+      Name: skrin
+      Dependencies: {}
+    Info_19:
+      Name: slunce
+      Dependencies: {}
+    Info_20:
+      Name: stul
+      Dependencies: {}
+    Info_21:
+      Name: vitr
+      Dependencies: {}
+    Info_22:
+      Name: vlocka
       Dependencies: {}
