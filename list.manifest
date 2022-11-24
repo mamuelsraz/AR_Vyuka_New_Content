@@ -1,21 +1,25 @@
 ManifestFileVersion: 0
-CRC: 4142799524
+CRC: 3468578884
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 587309089793f12d72cc4caa20caec6b
+    Hash: 2a8e8952fbd5e0539423938e8ceff94d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: dc7d45d0bb9d6d407d106a8dc6ee7363
+    Hash: ddaf3f223515947699258c811cc94829
 HashAppended: 0
 ClassTypes:
 - Class: 1
+  Script: {instanceID: 0}
+- Class: 28
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 99d0876742e685842a34b543423061db, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 42c263dd625183845824377cfdd042af, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
@@ -32,8 +36,6 @@ Assets:
 - Assets/ArObjects/Languages/nocnistolek_obj.asset
 - Assets/ArObjects/Languages/semafory_obj.asset
 - Assets/ArObjects/Languages/vitr_obj.asset
-- Assets/ArObjects/CubeAsset 1.asset
-- Assets/ArObjects/LanguageAsset.asset
 - Assets/ArObjects/Languages/juice_obj.asset
 - Assets/ArObjects/Languages/lampa_obj.asset
 - Assets/ArObjects/Languages/boty_obj.asset
@@ -59,8 +61,6 @@ Dependencies:
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/skrin
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/slunce
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/stul
-- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_1
-- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_2
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_3
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/vitr
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/vlocka
