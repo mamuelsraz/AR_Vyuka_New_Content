@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3468578884
+CRC: 3332443198
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2a8e8952fbd5e0539423938e8ceff94d
+    Hash: b7994e835476fc124fd58d68f4759b1c
   TypeTreeHash:
     serializedVersion: 2
     Hash: ddaf3f223515947699258c811cc94829
@@ -33,6 +33,7 @@ Assets:
 - Assets/ArObjects/Languages/blesky_obj.asset
 - Assets/ArObjects/Languages/vlocka_obj.asset
 - Assets/ArObjects/Languages/skrin_obj.asset
+- Assets/ArObjects/Chemics/Kadinka.asset
 - Assets/ArObjects/Languages/nocnistolek_obj.asset
 - Assets/ArObjects/Languages/semafory_obj.asset
 - Assets/ArObjects/Languages/vitr_obj.asset
@@ -41,16 +42,18 @@ Assets:
 - Assets/ArObjects/Languages/boty_obj.asset
 - Assets/ArObjects/Languages/notebook_obj.asset
 - Assets/ArObjects/Languages/prechod_obj.asset
-- Assets/ArObjects/CubeAsset 2.asset
+- "Assets/ArObjects/Chemics/Erlenmayerova ba\u0148ka.asset"
 - Assets/ArObjects/Languages/kreslo_obj.asset
 - Assets/ArObjects/Languages/dest_obj.asset
 Dependencies:
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/banka
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/batoh
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/blesky
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/boty
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/burger
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/dest
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/juice
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/kadinka
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/kreslo
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/kruzitko
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/lampa
@@ -61,6 +64,5 @@ Dependencies:
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/skrin
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/slunce
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/stul
-- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/test_3
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/vitr
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/vlocka
