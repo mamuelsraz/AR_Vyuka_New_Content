@@ -1,17 +1,29 @@
 ManifestFileVersion: 0
-CRC: 3332443198
+CRC: 902393632
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b7994e835476fc124fd58d68f4759b1c
+    Hash: 7dd8844e55b52fbb7be8dc22a6624a98
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ddaf3f223515947699258c811cc94829
+    Hash: c146abca85aa8fbc113a881603d12e72
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 99d0876742e685842a34b543423061db, type: 3}
@@ -31,20 +43,26 @@ Assets:
 - Assets/ArObjects/Languages/kruzitko_obj.asset
 - Assets/ArObjects/Languages/slunce_obj.asset
 - Assets/ArObjects/Languages/blesky_obj.asset
+- "Assets/ArObjects/Chemics/Destila\u010Dn\xED Banka.asset"
 - Assets/ArObjects/Languages/vlocka_obj.asset
 - Assets/ArObjects/Languages/skrin_obj.asset
 - Assets/ArObjects/Chemics/Kadinka.asset
+- "Assets/ArObjects/Chemics/N\xE1levka.asset"
 - Assets/ArObjects/Languages/nocnistolek_obj.asset
 - Assets/ArObjects/Languages/semafory_obj.asset
 - Assets/ArObjects/Languages/vitr_obj.asset
+- "Assets/ArObjects/Chemics/N\xE1sypka.asset"
 - Assets/ArObjects/Languages/juice_obj.asset
 - Assets/ArObjects/Languages/lampa_obj.asset
+- "Assets/ArObjects/Chemics/Varn\xE1 Ba\u0148ka.asset"
 - Assets/ArObjects/Languages/boty_obj.asset
 - Assets/ArObjects/Languages/notebook_obj.asset
 - Assets/ArObjects/Languages/prechod_obj.asset
 - "Assets/ArObjects/Chemics/Erlenmayerova ba\u0148ka.asset"
 - Assets/ArObjects/Languages/kreslo_obj.asset
 - Assets/ArObjects/Languages/dest_obj.asset
+- "Assets/ArObjects/Chemics/Titra\u010Dn\xED ba\u0148ka.asset"
+- "Assets/ArObjects/Chemics/St\u0159\xED\u010Dka.asset"
 Dependencies:
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/banka
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/batoh
@@ -57,12 +75,17 @@ Dependencies:
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/kreslo
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/kruzitko
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/lampa
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/nalevka
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/nasypka
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/nocnistolek
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/notebook
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/prechod
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/semafory
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/skrin
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/slunce
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/stricka
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/stul
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/titracnibanka
+- D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/varnabanka
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/vitr
 - D:/42079/Projects/AR_Vyuka_New/Assets/Bundles/AR_Vyuka_New_Content/vlocka

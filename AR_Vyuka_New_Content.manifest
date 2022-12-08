@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2677014718
+CRC: 3477384325
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -25,6 +25,11 @@ AssetBundleManifest:
         Dependency_17: vitr
         Dependency_18: vlocka
         Dependency_19: kadinka
+        Dependency_20: varnabanka
+        Dependency_21: titracnibanka
+        Dependency_22: stricka
+        Dependency_23: nasypka
+        Dependency_24: nalevka
     Info_1:
       Name: test_2
       Dependencies: {}
@@ -93,4 +98,22 @@ AssetBundleManifest:
       Dependencies: {}
     Info_23:
       Name: kadinka
+      Dependencies: {}
+    Info_24:
+      Name: varnabanka
+      Dependencies: {}
+    Info_25:
+      Name: titracnibanka
+      Dependencies: {}
+    Info_26:
+      Name: stricka
+      Dependencies: {}
+    Info_27:
+      Name: nasypka
+      Dependencies: {}
+    Info_28:
+      Name: nalevka
+      Dependencies: {}
+    Info_29:
+      Name: destilacnibanka
       Dependencies: {}
